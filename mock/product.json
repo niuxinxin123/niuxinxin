@@ -1,0 +1,23 @@
+[
+    {
+        "pname": "西瓜",
+        "price": 2.5,
+        "imgUrl": "https://image.missfresh.cn/940e4f242f294bbfa17cad9ba3dd04e3.jpg?iopcmd=convert&dst=webp",
+        "count": 0,
+        "isCheck": true
+    },
+    {
+        "pname": "火龙果",
+        "price": 6,
+        "imgUrl": "https://image.missfresh.cn/bdd1cfc00bc7436599dd64aef0e57a37.jpg?iopcmd=convert&dst=webp",
+        "count": 1,
+        "isCheck": false
+    },
+    {
+        "pname": "香蕉",
+        "price": 1.8,
+        "imgUrl": "https://image.missfresh.cn/b9ca155010e74ab586887d8576175bb9.jpg?iopcmd=convert&dst=webp",
+        "count": 2,
+        "isCheck": true
+    }
+]
